@@ -1,0 +1,4 @@
+- 👋 Eai eu sou o @kmuller11
+- 👀 Estou interesado em aprender a programar novas linguagens 
+- 🌱 Estou recentemente aprendendo a programar recentemente a linguagem Javascript e Scratch
+- 📫 Meu email de contato é kaua.jede@escola.pr.gov.br
